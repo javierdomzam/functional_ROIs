@@ -1,7 +1,7 @@
 # Create functional ROIs with FSL and Matlab
 This code performs functional ROI analysis using FSL and Matlab. The goal is to create a set of ROIs with 1000 voxels each, based on the highest intensity values in a given functional image.
 
-# Getting Started
+## Getting Started
 Before running this code, make sure you have the following software installed:
 
 FSL (FMRIB Software Library)
@@ -9,7 +9,7 @@ Matlab
 
 Also, ensure that you have the necessary data organized in a specific directory structure. See below for details.
 
-# Directory Structure
+## Directory Structure
 The input data should be organized in the following directory structure:
 
 ```shell
@@ -29,7 +29,7 @@ your_dir/
     ...
  ```
  
-# Usage
+## Usage
 To run the script, open a terminal window and navigate to the directory where the code is stored. Then, execute the following command:
 
 ```bash
