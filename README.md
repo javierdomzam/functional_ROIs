@@ -7,9 +7,9 @@ Before running this code, make sure you have the following software installed:
 FSL (FMRIB Software Library)
 Matlab
 
-# Also, ensure that you have the necessary data organized in a specific directory structure. See below for details.
+Also, ensure that you have the necessary data organized in a specific directory structure. See below for details.
 
-Directory Structure
+# Directory Structure
 The input data should be organized in the following directory structure:
 
 ```shell
